@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @t0883
-- 👀 I’m interested in computer science.
-- 🌱 I’m currently learning javascript and python.
-- 💞️ I’m looking to collaborate on everything that can teach me new things.
 - 📫 How to reach me: t0883@hotmail.com
 
 <!---
